@@ -45,4 +45,4 @@ This project is built using PostgreSQL with Sequelize-Object Relational Mapping
 HTML, CSS, Bootstrap, JavaScript, Node.js, Mustache
 
 ## This site was created by:
-[David Chen](https://github.com/DCXan) and [Calvin Nguyen](https://github.com/cnguyen2133l)
+[David Chen](https://github.com/DCXan) and [Calvin Nguyen](https://github.com/cnguyen2133)
